@@ -1,0 +1,4 @@
+
+
+
+$env:GOOGLE_APPLICATION_CREDENTIALS="C:\Users\kabar\Desktop\BigQuery\Test\lukas-lok-bb37a21b1227.json"
